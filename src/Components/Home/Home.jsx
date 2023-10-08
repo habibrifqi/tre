@@ -1,6 +1,6 @@
 import React,{useEffect,useState} from 'react'
 import './home.css'
-import Modal from './Modal';
+import Modal from './modal';
 import vidio from '../../Assets/p1.mp4'
 import{BiMap,BiLogoTwitter} from "react-icons/bi";
 import{HiFilter} from "react-icons/hi";
